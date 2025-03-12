@@ -1,10 +1,3 @@
-"""
-Simple command line tool for myself to log my daily time consumption:
-run the following command to use:
-python3 worklog.py start activity-name: this will create a new entry in the log file
-python3 worklog.py show: this will show current entry or previous entry
-python3 worklog.py done: this will end current entry
-"""
 
 import os
 import sys

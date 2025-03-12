@@ -1,3 +1,6 @@
+'''
+THIS FILE IS NOT IN USE AT THE MOMENT
+'''
 
 def read_command_line(args):
   last_line = get_last_line(LOG_FILE_NAME)

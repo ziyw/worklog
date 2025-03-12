@@ -1,3 +1,4 @@
+# if haven't setup python venv, set it up first
 source ./venv/bin/activate
 sudo rm -rf build dist
 # to generate setup.py file:
